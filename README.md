@@ -26,6 +26,13 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinPrasanth&theme=tokyo-night" />
   </p>
+  <h2 align="center">⚡ Currently Running</h2>
+
+  <p align="center" style="letter-spacing:0.15em; font-weight:500;">
+  Ethical AI &nbsp;&nbsp;•&nbsp;&nbsp; 
+  ML Systems (MLOps) &nbsp;&nbsp;•&nbsp;&nbsp; 
+  Time Series Learning
+  </p>
 
   <br/>
 

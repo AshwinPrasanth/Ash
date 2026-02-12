@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I am Ashwin Prasanth</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Researcher;MSc+Advanced+AI+@+UCD;Future+AI+Professor;Building+Intelligent+Systems;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Researcher;MSc+Advanced+AI+@+UCD;Building+Intelligent+Systems;Always+Learning" />
 </p>
 
 

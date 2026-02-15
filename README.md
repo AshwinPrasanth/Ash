@@ -31,6 +31,7 @@
   <p align="center" style="letter-spacing:0.15em; font-weight:500;">
   Ethical AI &nbsp;&nbsp;•&nbsp;&nbsp; 
   ML Systems (MLOps) &nbsp;&nbsp;•&nbsp;&nbsp; 
+  Clinical Research &nbsp;&nbsp;•&nbsp;&nbsp; 
   Time Series Learning
   </p>
 
